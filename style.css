@@ -1,9 +1,6 @@
 p{
     font-family: arial;
 }
-list{
-    font-family:arial
-}
 body{
     background-color: #dedddb;
 }
@@ -15,4 +12,9 @@ a{
 }
 .gray-element{
     background-color: gray;
+}
+#projects{
+  height: 200px;
+  float: left;
+  width: 20%;
 }
